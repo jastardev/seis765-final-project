@@ -1,0 +1,6 @@
+apache-airflow
+apache-airflow-providers-amazon
+boto3
+botocore[crt]
+joblib
+scikit-learn
