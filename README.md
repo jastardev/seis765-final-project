@@ -9,7 +9,6 @@ Airflow + SQS + S3 + Kubernetes pipeline that trains a breast-cancer classifier 
 - Python 3.10+
 - Docker
 - A Kubernetes cluster (minikube, kind, or EKS)
-- AWS account with S3 bucket and SQS queue created
 - AWS CLI installed and configured (`~/.aws/credentials`)
 - `kubectl` configured for your cluster
 
